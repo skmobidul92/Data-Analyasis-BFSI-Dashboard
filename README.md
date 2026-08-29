@@ -14,3 +14,11 @@ The main objective of the project is to analyze the bank's loan portfolio, custo
 - Where should the bank focus its collection and risk-management efforts?
 
 - Dashboard Interaction <a herf="https://github.com/skmobidul92/Data-Analyasis-BFSI-Dashboard/blob/main/Screenshot%202026-08-29%20101626.png%20Power%20BI.png"View Dashboard</a>
+
+## Process
+- Verify data for any missing values and sort out the same.
+- Made sure data is consistant and clean with respect to data type, data formet and valuse used.
+- Create KPI & Charts according to the question asked.
+- Marge all charts in one Dashboard and apply slicer to make dynamic.
+
+## DAshboard
