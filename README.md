@@ -2,9 +2,6 @@
 ## Project Objective
 The main objective of the project is to analyze the bank's loan portfolio, customer credit risk, defaults, NPA customers, loan types, branches, and DPD, so management can identify risky customers and branches and make better lending and collection decisions.
 
-## Dataset used
-- <a herf="https://github.com/skmobidul92/Data-Analyasis-BFSI-Dashboard/blob/main/BFSI_Credit_Risk_Clean.csv">Dataset</a>
-
 ## Business Question & KPIs
 - How much total loan has been disbursed?
 - Which branches have the highest loan exposure?
