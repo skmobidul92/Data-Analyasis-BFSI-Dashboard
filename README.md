@@ -21,9 +21,6 @@ The main objective of the project is to analyze the bank's loan portfolio, custo
 - Create KPI & Charts according to the question asked.
 - Marge all charts in one Dashboard and apply slicer to make dynamic.
 
-## Dashboard
-
-<img width="1165" height="655" alt="Screenshot 2026-08-29 101626 png Power BI" src="https://github.com/user-attachments/assets/bcca5529-f639-4658-9af5-779d55ca3356" />
 
 ## Project Insight
 - The bank has approximately ₹3 billion in total loan exposure, so effective credit-risk monitoring is important.
